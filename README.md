@@ -1,4 +1,4 @@
-Hi 👋 My name is Christian De Zan Martinez
+Hi 👋 I'm Christian De Zan Martinez
 ==========================================
 
 Full Stack Developer
